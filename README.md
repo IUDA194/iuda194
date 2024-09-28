@@ -25,7 +25,7 @@
 - **🤝 Collaboration & Growth**: I believe in the power of collaboration and continuous improvement in the ever-evolving tech landscape.
 
 
-# My Skills:
+# My Skills
 <div id="skills" align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40"/>
