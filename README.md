@@ -18,8 +18,6 @@
 
 - **💼 Freelance Experience**: I bring extensive experience from various **freelance projects**, where I've honed my skills in delivering tailored solutions to meet client needs.
 
-- **🌐 Web Studio**: I run my own web studio, [**sitera.tech**](https://sitera.tech), where I develop innovative web applications.
-
 - **🛠️ GitHub Projects**: I love exploring new technologies and sharing my learning journey through **pet projects** on my GitHub profile.
 
 - **🤝 Collaboration & Growth**: I believe in the power of collaboration and continuous improvement in the ever-evolving tech landscape.
